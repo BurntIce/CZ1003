@@ -5,7 +5,7 @@ School of Computer Science and Engineering
 
 Academic Year 2017-2018 Semester 1
 
-source code for CZ1003 Introduction to Computational Thinking.
+source code for CZ1003 Introduction to Computational Thinking project
 
 Group members: Bryan Kiang, Lim Shi Zheng, Vincent Chua, Jason Ngo
 
